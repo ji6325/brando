@@ -1,0 +1,56 @@
+햄버거 버튼
+
+크기 : 36px 33px
+여백 : 60px 70px
+
+섹션1
+빨간 막대 
+컬러 #E31D3B
+p
+폰트사이즈 16px
+폰트컬러	   #ABABAB
+폰트패밀리 Montserrat
+아래 여백 20px
+
+h2
+폰트사이즈 80px
+폰트컬러	   #FFFFFF
+폰트패밀리 Montserrat
+
+섹션2
+img 글씨
+
+폰트사이즈 100px
+폰트웨이트 700
+레터스펙싱 -5px
+폰트 컬러 #fff
+
+text박스
+여백 110 90
+
+text 글씨
+짝대기 
+컬러 #E31D3B
+폰트사이즈 35px
+
+h2
+폰트사이즈 35px
+폰트컬러 #404040
+아래여백 25px
+
+p
+폰트사이즈 40px
+폰트컬러 #C5C5C5
+아래여백 25px
+
+섹션3
+
+페이지버튼 
+폰트사이즈 13px
+여백 위아래 5px
+addclass전
+color:#9b9b9b
+addclass후
+color:#555555 
+border-bottom:2px solid #e31d3b
+font-weight:600
